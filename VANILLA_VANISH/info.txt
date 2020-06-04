@@ -1,0 +1,5 @@
+version: 1.5
+releaseDate: 05.06.2020
+downloadLink: https://sgemine.ru/raphtalia/java/plugins/vv/VVlatest.jar
+description: VANILLA VANISH - HIDES PLAYER IF PLAYER HAVE raphtalia.vv.hiden
+SPECIAL FOR SGE WORLDS - SGE VANILLA SERVER
